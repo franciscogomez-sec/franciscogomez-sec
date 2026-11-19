@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Francisco Gómez 👋
 
-<!--
-**franciscogomez-sec/franciscogomez-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity practitioner from Panama 🇵🇦 working on penetration testing,
+network forensics and AI applied to security. I document my labs, CTFs
+and tools here.
 
-Here are some ideas to get you started:
+## 🔐 Areas of focus
+- Web & network penetration testing
+- Network forensics & traffic analysis
+- SOC Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & skills
+`Nmap` · `Burp Suite` · `Wireshark` · `Metasploit` · `Python` · `Linux`
+
+## 📂 Featured projects
+- Coming soon: write-ups and lab reports
+
+## 📚 Currently learning
+- Bachelor's degree in cybersecurity
+
+## 📫 Contact
+- LinkedIn: linkedin.com/in/francisco-gómez-a35884361
+- Email: franfure0122@gmail.com
